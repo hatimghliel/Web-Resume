@@ -1,0 +1,32 @@
+html , button , input , select , textarea {
+  color : #444;
+}
+
+html{
+	font-size : 1em;
+	line-height : 1.4;
+}
+body {
+background-color: #bfc4c9;
+}
+
+#wrapper {
+  max-width: 900px;
+  min-width: 320px;
+  margin: auto;
+}
+header{
+
+
+}
+
+#headerimg {
+width: 150px;
+height: 150px;
+
+}
+
+footer{
+	font-size : 1em;
+}
+
