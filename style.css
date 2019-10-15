@@ -5,9 +5,11 @@ html , button , input , select , textarea {
 html{
 	font-size : 1em;
 	line-height : 1.4;
+
 }
 body {
-background-color: #bfc4c9;
+    background-color: #cfd9e6;
+ 
 }
 
 #wrapper {
@@ -28,5 +30,13 @@ height: 150px;
 
 footer{
 	font-size : 1em;
+}
+h2{
+	 border-bottom: double;
+}
+h1{
+	 font-family: ledger, serif;
+	 font-family: ultra, serif;
+	 font-family: chunk, serif;
 }
 
