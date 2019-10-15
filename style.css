@@ -9,6 +9,7 @@ html{
 }
 body {
     background-color: #cfd9e6;
+    margin: 0px;
  
 }
 
@@ -16,6 +17,7 @@ body {
   max-width: 900px;
   min-width: 320px;
   margin: auto;
+
 }
 header{
 
