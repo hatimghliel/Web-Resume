@@ -5,19 +5,15 @@ html , button , input , select , textarea {
 html{
 	font-size : 1em;
 	line-height : 1.4;
-
 }
 body {
-    background-color: #cfd9e6;
-    margin: 0px;
- 
+background-color: #bfc4c9;
 }
 
 #wrapper {
   max-width: 900px;
   min-width: 320px;
   margin: auto;
-
 }
 header{
 
@@ -32,13 +28,5 @@ height: 150px;
 
 footer{
 	font-size : 1em;
-}
-h2{
-	 border-bottom: double;
-}
-h1{
-	 font-family: ledger, serif;
-	 font-family: ultra, serif;
-	 font-family: chunk, serif;
 }
 
